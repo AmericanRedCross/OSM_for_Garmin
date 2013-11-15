@@ -1,5 +1,4 @@
-
-![ARC Logo](https://raw.github.com/danbjoseph/osmForGarmin/master/img/arc-logo.png)
+![ARC Logo](https://raw.github.com/AmericanRedCross/OSM_for_Garmin/master/img/arc-logo.png)
 
 [OpenStreetMap on Garmin](http://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin)
 =========================
@@ -34,12 +33,12 @@ cd Desktop\osmToGarmin\splitter-r311
 java -Xmx2000m -jar splitter.jar ..\PHL_2013-11-14\philippines-latest.osm.pbf --output-dir=..\PHL_2013-11-14
 ```
 
-![image1](https://raw.github.com/danbjoseph/osmForGarmin/master/img/osmtoGarmin01.png)
+![image1](https://raw.github.com/AmericanRedCross/OSM_for_Garmin/master/img/osmtoGarmin01.png)
 
 - Check your data folder (**PHL_2013-11-14** in this example), it should contain a series 
 of files that begin with **6324** and have the file extension **.osm.pbf**
 
-![image2](https://raw.github.com/danbjoseph/osmForGarmin/master/img/osmtoGarmin02.png)
+![image2](https://raw.github.com/AmericanRedCross/OSM_for_Garmin/master/img/osmtoGarmin02.png)
 
 - Change directory to your data folder
 
@@ -53,7 +52,7 @@ cd ..\PHL_2013-11-14
 java -jar ..\mkgmap-r2815\mkgmap.jar --gmapsupp 6324*.osm.pbf
 ```
 
-![image3](https://raw.github.com/danbjoseph/osmForGarmin/master/img/osmtoGarmin03.png)
+![image3](https://raw.github.com/AmericanRedCross/OSM_for_Garmin/master/img/osmtoGarmin03.png)
 
 - Connect your Garmin device and copy the **gmapsupp.img** file into the ‘Garmin’ folder on the Garmin’s internal memory 
 	- Not the SD card if one is in the device
