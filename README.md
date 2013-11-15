@@ -3,7 +3,9 @@
 [OpenStreetMap on Garmin](http://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin)
 =========================
 
-- Garmin compatible files of [OpenStreetMap](http://www.openstreetmap.org/#map=6/12.276/125.255&layers=H) data for the Philippines are located in the PHL folders above
+- Garmin compatible files of [OpenStreetMap](http://www.openstreetmap.org/#map=6/12.276/125.255&layers=H) data for 
+the Philippines are located in the PHL folders above
+- Download this repository as a zip from the options at right to get the files
 - The date of download is appended to the folder name
 - The easiest way to install a map on your Garmin device is to put it in USB mass storage mode and copy the gmapsupp.img file to a directory called Garmin
 - OSM data downloaded from [Geofabrik](http://download.geofabrik.de/)
