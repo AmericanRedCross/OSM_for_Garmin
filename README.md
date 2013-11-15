@@ -11,7 +11,7 @@
 
 ### Doing it yourself ###
 
-Note: The method described here worked for GPSmap62, GPSmap60, Oregon 400 and Dakota20. This is only the very basic workflow. The [OSM wiki](http://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin) goes into much greater detail on this and many other topics. With this workflow the ocean is not styled (coastlines are rendered but land and water have the same fill color); however, the OSM map only displays when zoomed so this shouldn’t be a huge issue (this can be fixed using mkgmap). 
+**Note:** The method described here worked for GPSmap62, GPSmap60, Oregon400 and Dakota20. This is only the very basic workflow. The [OSM wiki](http://wiki.openstreetmap.org/wiki/OSM_Map_On_Garmin) goes into much greater detail on this and many other topics. With this workflow the ocean is not styled (coastlines are rendered but land and water have the same fill color); however, the OSM map only displays when zoomed so this shouldn’t be a huge issue (this can be fixed using mkgmap). 
 
 - Install [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
 - Create a project folder on your computer (I named mine **osmToGarmin**)
